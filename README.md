@@ -21,7 +21,7 @@ Using our public collection.json as a source of customer data we want you to cre
 Our collection.json is based on one of our public facing API's. It's built to the specification of http://jsonapi.org/ which is the standard for developing API's that we use here at mivi.
 
 # Technical Guidance
-1. Use the programming language and tooling of your choice, either Swift/Java
+1. Use the programming language and tooling of your choice, either *Swift4* Java or *kotlin*
 2. Make your source code available on Github/Bitbucket (or the online repo of your choosing)
 3. Try to avoid the use of frameworks (unless they're for testing)
 4. Try not to spend more than 2-3 hours maximum. (We don't want you to lose a weekend over this!)
